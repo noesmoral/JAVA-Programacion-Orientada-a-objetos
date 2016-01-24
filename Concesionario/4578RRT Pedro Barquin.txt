@@ -1,0 +1,37 @@
+Factura
+
+*********************************
+
+Datos Comprador
+
+Nombre y apellido: Pedro Barquin
+
+usuario : pedro@hotmail.com
+
+DNI : 03142200D
+
+relacion con el concesionario : Familiar
+
+fecha de compra : Thu May 29 12:42:54 CEST 2014
+
+*********************************
+
+Datos vehiculo
+
+Matricula: 4578RRT
+
+marca: honda
+
+potencia: 100.0
+
+modelo: civic
+
+color: rojo
+
+año de fabricacion: 2010
+
+kilometros: 125000
+
+Precio con descuento si lo ubiera: 2916.0€
+
+Otros: turismo: Puertas:5 Combustible:Diesel Plazas:5 Cambio:Manual

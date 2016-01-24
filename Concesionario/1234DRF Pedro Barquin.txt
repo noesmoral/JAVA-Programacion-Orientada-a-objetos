@@ -1,0 +1,37 @@
+Factura
+
+*********************************
+
+Datos Comprador
+
+Nombre y apellido: Pedro Barquin
+
+usuario : pedro@gmail.com
+
+DNI : 03142206S
+
+relacion con el concesionario : Ninguna
+
+fecha de compra : Thu May 29 12:42:19 CEST 2014
+
+*********************************
+
+Datos vehiculo
+
+Matricula: 1234DRF
+
+marca: honda
+
+potencia: 14.0
+
+modelo: pack
+
+color: negra
+
+año de fabricacion: 2006
+
+kilometros: 10000
+
+Precio con descuento si lo ubiera: 1500.0€
+
+Otros: motocicleta:  Cilindrada:125 Tipo:Ciclomotor
